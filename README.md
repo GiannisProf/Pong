@@ -1,2 +1,2 @@
 # Pong
-simple 2 player pong game using the pygame module...planning to make an AI as the second player.
+This is a beginner project using python and the pygame module. An implementation of the classic Pong game for 2 players. Planning on turning it into Player vs A.I.
